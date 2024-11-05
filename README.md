@@ -12,7 +12,20 @@ Welcome to my GitHub profile! I’m a digital media and IT enthusiast, always ex
 - 🎨 Currently working with **TypeScript**, **React/Next.js**, and **Tailwind CSS** to create web applications.
 
 ## 🔧 Tech & Tools
-
+### Computer
+  - [Ryzen 9 7950x](https://www.amd.com/en/products/processors/desktops/ryzen/7000-series/amd-ryzen-9-7950x.html)
+  - [64GB DDR5 6000Mhz](https://www.gskill.com/product/165/390/1692167426/F5-6000J3036G32GX2-TZ5NR)
+  - [4TB Samsung 990 PRO](https://www.samsung.com/us/computing/memory-storage/solid-state-drives/990-pro-pcie-4-0-nvme-ssd-4tb-mz-v9p4t0b-am/)
+  - [NVIDIA Gefore RTX 3090](https://www.evga.com/products/specs/gpu.aspx?pn=e2763314-163f-4391-8935-ea2c5dffd06b)
+### Monitors
+  - [Ultra Gear 4k 160hz 32" Monitor](https://www.lg.com/us/monitors/lg-32gq950-b-gaming-monitor)
+  - [XPPEN Artist 24 Pro](https://www.amd.com/en/products/processors/desktops/ryzen/7000-series/amd-ryzen-9-7950x.html)
+  - Some Random Junk Monitor x2
+### Peripherals
+  - [HyperX QuadCast S](https://hyperx.com/collections/microphones/products/hyperx-quadcast-s-usb-microphone?variant=41031692058781)
+  - [Apex Pro Mini Prebuilt: White Gold Edition](https://steelseries.com/gaming-keyboards/apex-pro-mini-prebuilt-white-gold-edition?srsltid=AfmBOoo6WAaK8dufiCSKPiU7ttoythMXeBalq-7LNuKEdqYjQK_JARLS)
+  - [Aerox 5 Wireless](https://steelseries.com/gaming-mice/aerox-5-wireless?srsltid=AfmBOorI6IYscNoiiyx_NymYKZ3TdWeIbV3FvpM7cGLaXKoGC4j8ffDv)
+     
 ## 🌱 You cant ever Know Everything, Im currently learning to do the following:
 - **Frontend**: TypeScript, React, Next.js, Tailwind CSS
 - **Backend**: PostgreSQL, Node.js, JWT Authentication
